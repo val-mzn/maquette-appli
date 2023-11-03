@@ -3225,14 +3225,14 @@ html {
 }
 
 .search-bg {
-  background-image: url( '/static/bg-1.svg'), url('https://val-mzn.github.io/static/bg-1.svg');
+  background-image: url( '/static/bg-1.svg'), url('https://val-mzn.github.io/maquette-appli/static/bg-1.svg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center, 50%, 50%;
 }
 
 .search-result-bg {
-  background-image: url( '/static/bg-2.svg'), url('https://val-mzn.github.io/static/bg-2.svg') ;
+  background-image: url( '/static/bg-2.svg'), url('https://val-mzn.github.io/maquette-appli/static/bg-2.svg') ;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center, 50%, 50%;
