@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .search-bg {
+        background-image: url( '/static/blob-scene-haikei.svg') ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: bottom center, 50%, 50%;
+    }
+
+    .search-result-bg {
+        background-image: url( '/static/blob-scene-haikei\(5\).svg') ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: bottom center, 50%, 50%;
+    }
+
+    .btn {
+        @apply normal-case text-base font-semibold;
+    }
+}
